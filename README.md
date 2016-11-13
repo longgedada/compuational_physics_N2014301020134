@@ -1,6 +1,6 @@
 # compuational_physics_N2014301020134
 
-- [x] [Exercise_01](https://github.com/longgedada/compuational_physics_N2014301020134/blob/master/Exercise_01:Make%20your%20own%20github%20account%20and%20add%20a%20README)
+- [x] [Exercise_01https://github.com/longgedada/compuational_physics_N2014301020134/blob/master/Exercise_01:Make%20your%20own%20github%20account%20and%20add%20a%20README)
 - [x] [Exercise_02](https://github.com/longgedada/compuational_physics_N2014301020134/blob/master/Exercise_02%20%20Spell%20my%20name)
 - [x] [Exercise_03](https://github.com/longgedada/compuational_physics_N2014301020134/blob/master/Exercise_03%20move%20my%20name)
 - [ ] [Exercise_04](https://github.com/longgedada/compuational_physics_N2014301020134/blob/master/Exercise_04)
