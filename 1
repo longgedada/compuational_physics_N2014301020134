@@ -1,0 +1,18 @@
+import matplotlib.pyplot as plt
+import numpy as np
+def plot_01():
+  x1=np.array([152.6,310.6,463.6,625.9])
+  y1=np.array([120.00,60.26,39.95,29.99])
+  x2=np.array([156.2,332.8,501.6,678.0])
+  y2=np.array([110.00,54.69,36.54,27.66])
+  x3=np.array([177.9,371.0,558.2,753.3])
+  y3=np.array([100.00,50.17,34.26,24.59])
+  plot1,=plt.plot(x1,y1,'ro-')
+  plot2,=plt.plot(x2,y2,'gs-')
+  plot3,=plt.plot(x3,y3,'b*-')
+  plt.title('relation between string length,wave length,and frequency')
+  plt.xlabel('frequency')
+  plt.ylabel('wave length')
+plt.legend([plot1,plot2,plot3],['60cm','55cm','50cm'],loc="best")
+   plt.show()
+plot_01()
