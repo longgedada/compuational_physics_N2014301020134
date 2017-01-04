@@ -14,6 +14,6 @@
 - [ ] [Exercise_12](https://github.com/longgedada/compuational_physics_N2014301020134/blob/master/Exercise_12)
 - [ ] [Exercise_13](https://github.com/longgedada/compuational_physics_N2014301020134/blob/master/Exercise_13)
 - [ ] [Exercise_14](https://github.com/longgedada/compuational_physics_N2014301020134/blob/master/Exercise_14)
-- [ ] [Final Project](https://github.com/longgedada/compuational_physics_N2014301020134/blob/master/Final%20Project)
+- [x] [Final Project](http://www.jianshu.com/p/59b1fd95b2b5)
 
 
